@@ -46,4 +46,4 @@
 
 ### 📫 Connect with Me
 - 📧 Email: seyan.cse@gmail.com 
-- 💼 LinkedIn: 
+- 💼 LinkedIn:https://www.linkedin.com/in/seyam-bin-aziz/
