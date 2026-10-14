@@ -45,5 +45,5 @@
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: seyan.cse@gmail.com *(আপনার আসল ইমেইল বসিয়ে দিন)*
-- 💼 LinkedIn:   *(আপনার লিঙ্কডইন ইউজারনেম বসান)*
+- 📧 Email: seyan.cse@gmail.com 
+- 💼 LinkedIn: 
